@@ -1,4 +1,4 @@
-20277557049473658
+20277557051294658
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -72905,6 +72905,13 @@ footprint-lib
 2
 2
 footprint-lib
+10D-11
+NTC
+NTC
+0
+2
+2
+footprint-lib
 24AA32A
 
 
@@ -73576,13 +73583,6 @@ NEO-6M-GPS
 0
 24
 24
-footprint-lib
-NTC 10D-11
-
-
-0
-0
-0
 footprint-lib
 NodeMCU1.0(12-E)
 
